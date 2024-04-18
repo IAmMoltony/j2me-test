@@ -1,0 +1,8 @@
+bin/
+classes/
+lib/
+*.pro
+tmpclasses/
+tmplib/
+*.un~
+*.swp
